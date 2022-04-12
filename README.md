@@ -2,7 +2,7 @@
 
 ### About Me:
 
-Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center.<br/>I am currently finishing up my 6th and final semester<br/>
+Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center, and i am currently finishing up my 6th and final semester<br/>
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/37jV1GD)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alws34@gmail.com)
 
