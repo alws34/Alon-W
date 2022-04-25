@@ -14,7 +14,7 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 
 ### 🔧 My Skills:
 - <b>Data</b>: Python (Pandas, NumPy, Flask), social network analysis (Using [ORA](http://www.casos.cs.cmu.edu/projects/ora/))
-- <b>App Development</b>: Swift5, Xamarine (C#), React native
+<!-- - <b>App Development</b>: Swift5, Xamarine (C#), React native -->
 - <b>OOP</b>: C# and Java (both including GUI), Python.
 - <b>Backend</b>: ASP.NET, SQL, JavaScript and Node.js, Python (using Flask)
 - <b>Frontend</b>: JavaScript, ReactJS, HTML, css, ajax, REST API, Firebase, bootstrap, JQuery .
