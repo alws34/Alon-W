@@ -13,15 +13,17 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 <!-- My skills -->
 
 ### 🔧 My Skills:
+
 - <b>Data</b>: Python (Pandas, NumPy, Flask), social network analysis (Using [ORA](http://www.casos.cs.cmu.edu/projects/ora/))
 <!-- - <b>App Development</b>: Swift5, Xamarine (C#), React native -->
-- <b>OOP</b>: C# and Java (both including GUI), Python.
+- <b>OOP</b>: C#, Java, Python.
 - <b>Backend</b>: ASP.NET, SQL, JavaScript and Node.js, Python (using Flask)
 - <b>Frontend</b>: JavaScript, ReactJS, HTML, css, ajax, REST API, Firebase, bootstrap, JQuery .
 - <b>Others</b>: C, Visual Basic, Git
-<br/> <br/>
+  <br/> <br/>
 
 ### :hammer_and_wrench: Languages, Tools & Technologies :
+
 <div>
   <img src="https://img.icons8.com/color/30/c-sharp-logo.png" title="C#" **alt="C#" width="40" height="40"/>
 <img src="https://img.icons8.com/color/30/java.png" title="Java" **alt="Java" width="40" height="40"/>
@@ -57,16 +59,18 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 <!-- My Stats -->
 
 ### :rocket: Languages, Tools & Technologies :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alws34&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alws34)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- END My Stats -->
----
+## <!-- END My Stats -->
 
 ### 🔥 Currently Work On:
 
-Our Final project - which involves Social Network and Data analytics: [TweetStock](https://github.com/hadartayar/TweetStockApp)<br/>
+Computer Science Degree Final project [TweetStock -GIT](https://github.com/hadartayar/TweetStockApp)[Live WebSite](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
+This project involves Social Networks and Data analytics.
+In This project,  we try to predict stock price changes changes based on several stock exchange data from the past day.
 
 #### 🤹🏽‍♂️ Studying
 
