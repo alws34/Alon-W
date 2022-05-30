@@ -71,13 +71,13 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
   This project involves Social Networks and Data analytics.
   In This project, we try to predict stock price changes changes based on several stock exchange data from the past day.
 
-- Currently Studying <div><img src="https://img.icons8.com/fluency/344/swift.png" title="Swift5" \*\*alt="Swift5" width="20" height="20"/></div> for an upcoming IOS App :smile:
-
 #### :open_book: Studying
 
 ReactJS: [Udemy - The Complete ReactJs Course](https://www.udemy.com/course/react-js-basics-to-advanced) - Completed! <br/>
 Python: [Udemy - 2022 Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp) - Completed! <br/>
 Visual Basic: [Udemy - Learn Visual Basic with Visual Studio](https://www.udemy.com/course/learn-visual-basic) - Completed!<br/>
+
+Currently Studying Swift5 for an upcoming IOS App :smile:
 
 ---
 
