@@ -71,7 +71,7 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
   This project involves Social Networks and Data analytics.
   In This project, we try to predict stock price changes changes based on several stock exchange data from the past day.
 
-- Currently Studying <img src="https://img.icons8.com/fluency/344/swift.png" title="Swift5" \*\*alt="Swift5" width="20" height="20"/> for an upcoming IOS App :smile:
+- Currently Studying <div><img src="https://img.icons8.com/fluency/344/swift.png" title="Swift5" \*\*alt="Swift5" width="20" height="20"/></div> for an upcoming IOS App :smile:
 
 #### :open_book: Studying
 
