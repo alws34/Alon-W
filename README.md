@@ -2,7 +2,7 @@
 
 ### About Me:
 
-Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center, and i am currently finishing up my 6th and final semester<br/>
+Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center, and i am currently finishing up my 6th and final semester :man_student:<br/>
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/37jV1GD)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alws34@gmail.com)
 
@@ -14,12 +14,12 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 
 ### 🔧 My Skills:
 
-- <b>Data</b>: Python (Pandas, NumPy, Flask), social network analysis (Using [ORA](http://www.casos.cs.cmu.edu/projects/ora/))
+- <b>Data</b>: Python (using Pandas, NumPy and TesnorFlow libraries), social network analysis (Using [ORA](http://www.casos.cs.cmu.edu/projects/ora/))
 <!-- - <b>App Development</b>: Swift5, Xamarine (C#), React native -->
-- <b>OOP</b>: C#, Java, Python.
-- <b>Backend</b>: ASP.NET, SQL, JavaScript and Node.js, Python (using Flask)
-- <b>Frontend</b>: JavaScript, ReactJS, HTML, css, ajax, REST API, Firebase, bootstrap, JQuery .
-- <b>Others</b>: C, Visual Basic, Git
+- <b>OOP</b>: C# (including GUI in winform and WPF), Java, Python.
+- <b>Backend</b>: ASP.NET, SQL, JavaScript and Node.js, Python (using Flask library)
+- <b>Frontend</b>: JavaScript, ReactJS, HTML, css, ajax, REST API, Firebase, bootstrap, JQuery, XML.
+- <b>Others</b>: C, Visual Basic, Bash, Batch, Git, Web scraping (using Python's Selenium and bs4 libraries)
   <br/> <br/>
 
 ### :hammer_and_wrench: Languages, Tools & Technologies :
@@ -53,12 +53,11 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 <img src="https://img.icons8.com/color/344/linux--v1.png" title="Linux" **alt="Linux" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/raspberry-pi.png" title="RaspberryPi" **alt="RaspberryPi" width="40" height="40"/>
 <img src="https://img.icons8.com/ultraviolet/452/windows-10.png" title="Windows" **alt="Windows" width="40" height="40"/>
+<!-- <img src="https://img.icons8.com/fluency/344/swift.png" title="Swift5" \*\*alt="Swift5" width="40" height="40"/> -->
 </div>
 <!-- END My skills -->
 
 <!-- My Stats -->
-
-### :rocket: Languages, Tools & Technologies :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alws34&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -66,13 +65,15 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 
 ## <!-- END My Stats -->
 
-### 🔥 Currently Work On:
+### :technologist: Currently Work On:
 
-Computer Science Degree Final project [TweetStock -GIT](https://github.com/hadartayar/TweetStockApp)[Live WebSite](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
-This project involves Social Networks and Data analytics.
-In This project,  we try to predict stock price changes changes based on several stock exchange data from the past day.
+- Computer Science B.Sc Final project [TweetStock -GIT](https://github.com/hadartayar/TweetStockApp)[Live WebSite](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
+  This project involves Social Networks and Data analytics.
+  In This project, we try to predict stock price changes changes based on several stock exchange data from the past day.
 
-#### 🤹🏽‍♂️ Studying
+- Currently Studying <img src="https://img.icons8.com/fluency/344/swift.png" title="Swift5" \*\*alt="Swift5" width="20" height="20"/> for an upcoming IOS App :smile:
+
+#### :open_book: Studying
 
 ReactJS: [Udemy - The Complete ReactJs Course](https://www.udemy.com/course/react-js-basics-to-advanced) - Completed! <br/>
 Python: [Udemy - 2022 Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp) - Completed! <br/>
