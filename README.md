@@ -67,7 +67,7 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 
 ### :technologist: Currently Work On:
 
-- Computer Science B.Sc Final project [TweetStock -GIT](https://github.com/hadartayar/TweetStockApp)[Live WebSite](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
+- Computer Science B.Sc Final project [TweetStock -GIT](https://github.com/hadartayar/TweetStockApp), [Live WebSite](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
   This project involves Social Networks and Data analytics.
   In This project, we try to predict stock price changes changes based on several stock exchange data from the past day.
 
