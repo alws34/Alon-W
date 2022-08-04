@@ -68,7 +68,7 @@ Hi there!<br/> I am a Computer Science (B.Sc) Graduate<br/>
 #### :open_book: Studying
 
 C#: [Udemy - # Master Class](https://www.udemy.com/course/complete-csharp-masterclass) <br/>
-C# WPF:[Udemy - WPF Foundations](https://www.udemy.com/course/windows-presentation-foundation-masterclass)
+C# WPF:[Udemy - WPF Foundations](https://www.udemy.com/course/windows-presentation-foundation-masterclass)<br/>
 ReactJS: [Udemy - The Complete ReactJs Course](https://www.udemy.com/course/react-js-basics-to-advanced) - Completed! <br/>
 Python: [Udemy - 2022 Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp) - Completed! <br/>
 Visual Basic: [Udemy - Learn Visual Basic with Visual Studio](https://www.udemy.com/course/learn-visual-basic) - Completed!<br/>
