@@ -65,17 +65,13 @@ Hi there!<br/> I am a Computer Science (B.Sc) Graduate<br/>
 
 ### :technologist: Currently Work On:
 
-- Computer Science B.Sc Final project [TweetStock -GIT](https://github.com/hadartayar/TweetStockApp)[Live WebSite](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
-  This project involves Social Networks and Data analytics.
-  In This project, we try to predict stock price changes changes based on several stock exchange data from the past day.
-
 #### :open_book: Studying
 
+C#: [Udemy - # Master Class](https://www.udemy.com/course/complete-csharp-masterclass) <br/>
+C# WPF:[Udemy - WPF Foundations](https://www.udemy.com/course/windows-presentation-foundation-masterclass)
 ReactJS: [Udemy - The Complete ReactJs Course](https://www.udemy.com/course/react-js-basics-to-advanced) - Completed! <br/>
 Python: [Udemy - 2022 Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp) - Completed! <br/>
 Visual Basic: [Udemy - Learn Visual Basic with Visual Studio](https://www.udemy.com/course/learn-visual-basic) - Completed!<br/>
-
-Currently Studying Swift5 for an upcoming IOS App :smile:
 
 ---
 
