@@ -2,7 +2,7 @@
 
 ### About Me:
 
-Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center, and i am currently finishing up my 6th and final semester :man_student:<br/>
+Hi there!<br/> I am a Computer Science (B.Sc) Graduate<br/>
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/37jV1GD)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alws34@gmail.com)
 
@@ -14,12 +14,12 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 
 ### 🔧 My Skills:
 
-- <b>Data</b>: Python (using Pandas, NumPy and TesnorFlow libraries), social network analysis (Using [ORA](http://www.casos.cs.cmu.edu/projects/ora/))
-<!-- - <b>App Development</b>: Swift5, Xamarine (C#), React native -->
-- <b>OOP</b>: C# (including GUI in winform and WPF), Java, Python.
-- <b>Backend</b>: ASP.NET, SQL, JavaScript and Node.js, Python (using Flask library)
-- <b>Frontend</b>: JavaScript, ReactJS, HTML, css, ajax, REST API, Firebase, bootstrap, JQuery, XML.
-- <b>Others</b>: C, Visual Basic, Bash, Batch, Git, Web scraping (using Python's Selenium and bs4 libraries)
+- <b>Data</b>: Python 3 (using Pandas, NumPy, Scikit-Learn, TesnorFlow libraries)
+- <b>OOP</b>: C# (including Winform GUI, multithreading and Event-driven programming skills), Java and Python. 
+- <b>Backend</b>: ASP.NET (REST API), SQL, JavaScript and Node.js, Python (using Flask library)
+- <b>Frontend</b>: JavaScript (experience with jQuery and bootstrap), ReactJS, HTML5, CSS3 ,Ajax.
+- <b>DataBase Experience</b>: MSSQL, FireBase (Realtime DB), MongoDB
+- <b>Others</b>: C, Visual Basic, Bash, Batch, Git, Web Scraping (using Python's Selenium and bs4 libraries), RaspberryPi enthusiast.
   <br/> <br/>
 
 ### :hammer_and_wrench: Languages, Tools & Technologies :
@@ -41,7 +41,6 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 <img src="https://img.icons8.com/ios/30/000000/jquery.png" title="jquery" **alt="jquery" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/bootstrap.png" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 <img src="https://img.icons8.com/color/30/json.png" title="json" **alt="json" width="40" height="40"/>
-<img src="https://img.icons8.com/color/30/xml.png" title="xml" **alt="xml" width="40" height="40"/>
 <img src="https://img.icons8.com/color/30/visual-studio.png" title="VS" **alt="VS" width="40" height="40"/>
 <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png" title=VSC" **alt="VSC" width="40" height="40"/>
 <img src="https://img.icons8.com/color/30/sql.png" title="SQL" **alt="SQL" width="40" height="40"/>
@@ -53,7 +52,6 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 <img src="https://img.icons8.com/color/344/linux--v1.png" title="Linux" **alt="Linux" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/raspberry-pi.png" title="RaspberryPi" **alt="RaspberryPi" width="40" height="40"/>
 <img src="https://img.icons8.com/ultraviolet/452/windows-10.png" title="Windows" **alt="Windows" width="40" height="40"/>
-<!-- <img src="https://img.icons8.com/fluency/344/swift.png" title="Swift5" \*\*alt="Swift5" width="40" height="40"/> -->
 </div>
 <!-- END My skills -->
 
@@ -67,9 +65,6 @@ Hi there!<br/> I am a Computer Science (B.Sc) student at Ruppin Academic Center,
 
 ### :technologist: Currently Work On:
 
-- Computer Science B.Sc Final project [TweetStock -GIT](https://github.com/hadartayar/TweetStockApp)[Live WebSite](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
-  This project involves Social Networks and Data analytics.
-  In This project, we try to predict stock price changes changes based on several stock exchange data from the past day.
 
 #### :open_book: Studying
 
@@ -89,27 +84,33 @@ Currently Studying Swift5 for an upcoming IOS App :smile:
     <summary>&#128240 <b>Big Projects</b></summary><br/>
 
 <!-- My Projects -LIST:START -->
+- Computer Science B.Sc Final project [GitHub](https://github.com/alws34/TweetStockApp), [Live Web App](https://proj.ruppin.ac.il/bgroup57/test2/tar1/build/)<br/>
+  This project involves Social Networks and Data analytics.
+  In This project, we try to predict stock price volatility for the end of the current trading day (for specific stocks), based on chatter analysis from Twitter and real stock exchange data from the past day.
 
 - [Deployer App](https://github.com/alws34/DeployerV2)
   This tool simplifies software installations on newly installed PCs.
+
 - [Raspberry pi "commander"](https://github.com/alws34/RPICommander)
   This app was developed in order to automate the control of multiple rasperry pi's
   The app essentially creates bath-files for each device with the wanted CLI commands for that device, (selectable from a user-defined lists of devices and commands), and runs the .bat.
-  - This is an ongoing project and it will redesigned.
+
 - [Server Side Course final project](https://github.com/alws34/Server-Side-Final-Project) - [Website Link](https://proj.ruppin.ac.il/bgroup57/test2/tar4/Pages/login.html)
   You can connect to the website with the following credentials (regular users): user: testuser@gmail.com , pass: 123456
   This project includes an Admin panel with user's statistics, recommended series based on several parameters, real time chat base on firebase with changing emojis. Using API.net, JQUERY, JSON, SQL, Firebase, JavaScript, HTML and CSS.
+
 - [Nightclub Management Tool](https://github.com/alws34/RupCS_Java_AOOP_Final_Assignment)
   This is Final project for the JAVA,<b>including advanced concepts in OOP such as Abstraction, Encapsulation, Polymorphism, Inheritance and composition.</b>
   The project involved creating a NightClub management app, and is fully documented via JavaDoc.
+
 - [Requirements Document](https://github.com/alws34/RupCS_SE_FinalProject)
   This is our final project for the Software Engineering Course.
   This project includes: <b>Requirements Definition: Functional Requirements, Quality Requirements,System Architecture.
   Requirements Specification: Use Case Diagram, Glossary of UC, Actors Table, Traceability Matrix, Activity Diagrams. Design: Class Diagram.</b>
+
 - [Exam Preperation tool](https://github.com/alws34/Exams_Preperation)
 this tool is created for a simple, customized and free exam preperation tool.
-with this GUI tool you can create your data sets and the website will display them (Q&A)
-[Live Example](https://alonpcs.co.il/Exams_prep/ExamPrep.html)
+with this GUI tool you can create your data sets and the website will display them (in a Q&A manner)
 </details>
 <!-- My Projects-LIST:END -->
 
@@ -118,39 +119,38 @@ with this GUI tool you can create your data sets and the website will display th
     <summary>🔬 <b>My Knowledge</b></summary><br/>
 
 - <details>
+    <summary><b>OOP (GUI Applications, Multithreading and Event-driven programming)</b></summary><br/>
+    - C#</br>
+    - Python3</br>
+    - Java
+    </br></br>
+    Knolege and experience with Advanced concepts in OOP (in C#, Java and Python) such as polymorphism, abstract Classes, interfaces, exception hierarchy etc.<br/>
+    Event-driven programming,MultiThreading, Polymorphism, C# GUI (using WinForm).
+
+    </br></br>
+    Knoledge & experience with the following libraries:
+    - Pandas, Numpy, TensorFlow, Scikit-learn (SKlearn) - Data analysis.
+    - Flask - Simple Rest APIs.
+    - Telepot - telegram API.
+  </details>
+
+- <details>
+    <summary><b>DataBase Experience</b></summary><br/>
+    - Firebase</br>
+    - SQL</br>
+    - MongoDB
+</details>
+
+- <details>
     <summary><b>Front & Back End</b></summary><br/>
     - Flask (Python)
     - ASP.NET - REST API (C#)
     - AJAX
     - JavaScript
     - Node.JS (React & React Native)
-    - Firebase
-    - SQL
-    - MongoDB
-    - HTML 
-    - CSS
-    - Bootstrap
-  </details>
-
-- <details>
-    <summary><b>Gui Apps</b></summary><br/>
-    - C# (Winform & WPF)
-    - Java (Swing)
-  </details>
-
-- <details>
-    <summary><b>C# and Java</b></summary><br/>
-    Advanced concepts in OOP (in C#, Java and Python) such as polymorphism, abstract Classes, interface realization, exception hierarchy etc.<br/>
-    Event driven programming based on polymorphic event handlers, design and implementation of software systems in Java and C# GUI.
-  </details>
-
-- <details>
-    <summary><b>Python</b></summary><br/>
-    Knoledge working with the following libraries:
-    - Pandas & Numpy - for data analysis.
-    - OpenCV2 - for computer vision and object recognition.
-    - Flask - for simple Rest APIs.
-    - Telepot - for telegram bot API.
+    - HTML5 
+    - CSS3
+    - Bootstrap 4
   </details>
 
 - <details>
@@ -160,7 +160,7 @@ with this GUI tool you can create your data sets and the website will display th
 
 - <details>
     <summary><b>Computer Architecture</b></summary><br/>
-    learning Combinational Building Blocks such as Multiplexers, Decoders, Latches and Flip-Flops: SR Latch, D-Latch, D-Flip-Flop, Register, single cycle architecture and MIPS R2000 language.
+    Basic knoledge in Combinational Building Blocks such as Multiplexers, Decoders, Latches and Flip-Flops eg. SR Latch, D-Latch, D-Flip-Flop, Register, single cycle architecture and MIPS R2000 language.
   </details>
 
 - <details>
