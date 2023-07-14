@@ -2,7 +2,8 @@
 
 ### About Me:
 
-<br/> Computer Science (B.Sc)<br/>
+<br/> Computer Science (B.Sc) Graduate<br/>
+<br/> Software Engineer<br/>
 <!--
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/37jV1GD)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alws34@gmail.com)
