@@ -1,9 +1,7 @@
 <!-- About Me -->
 
 ### About Me:
-
-<br/> Computer Science (B.Sc) Graduate<br/>
-<br/> Software Engineer<br/>
+<br/> Software Engineer (Computer Science B.Sc)<br/>
 <!--END About me -->
 
 <!-- My skills -->
